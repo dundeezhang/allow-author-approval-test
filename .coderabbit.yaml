@@ -1,0 +1,5 @@
+# Production verification of reviews.allow_author_approval (REV-635).
+# Trusted configuration, on the default branch.
+reviews:
+  request_changes_workflow: true
+  allow_author_approval: false
