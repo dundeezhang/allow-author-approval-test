@@ -2,4 +2,4 @@
 # Trusted configuration, on the default branch.
 reviews:
   request_changes_workflow: true
-  allow_author_approval: false
+  allow_author_approval: true
